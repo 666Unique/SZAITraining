@@ -43,6 +43,8 @@ The script will:
 - `CV_Practice.py` — Main Python script with OpenCV image processing examples
 - `test.png` — Sample input image for processing
 - `README.md` — Project documentation
+- `00x.py` — Practice Files
+- `Mock_XX.py` — Mock Exam Files
 
 ## Notes
 
